@@ -1041,7 +1041,7 @@ height: 50px;
 
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 400px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -1063,7 +1063,7 @@ height: 50px;
 
   
   .banner1, .banner2, .banner3, .banner4{
-    width: 430px;
+    width: 390px;
     height: 650px;
   }
 
@@ -1092,7 +1092,7 @@ height: 50px;
   .section-2, .section-3, .section-6, .section-10{
     display: flex;
     flex-direction:column;
-    margin: 50px 50px;
+    margin: 50px 20px;
     align-items: center;
     justify-content: center;
   }
@@ -1107,7 +1107,7 @@ height: 50px;
   .sec-3a, .sec-3b, .sec-3c{
     height: 350px;
     width: 350px;
-    margin: 30px 20px ;
+    margin: 30px 60px ;
   }
 
 
@@ -1124,7 +1124,7 @@ height: 50px;
     margin: 50px 10px;
     padding: 5px 20px;
     /*width: 100%;*/
-    height: 1100px;
+    height: 1250px;
     text-align: justify;
     grid-template-columns:1fr;
     padding: 2rem;
@@ -1233,7 +1233,8 @@ height: 50px;
   }
 
   .section-8 img{
-    width: 400px;
+    width: 380px;
+    height: 100px;
   }
 
   .section-9{
