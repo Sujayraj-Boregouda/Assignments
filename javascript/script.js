@@ -6,4 +6,8 @@ function myFunction() {
       x.className = "topnav";
     }
   }
+
+  document.querySelector(".slide-up").addEventListener("click", () => {
+    window.scrollTo(0,0);
+  })
   
