@@ -10,8 +10,6 @@ html{
   scroll-behavior:smooth;
 }
 
-
-
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -41,7 +39,6 @@ html{
   display: none;
 }
 
-
 .nav-button{
   margin-left: 1000px;
   margin-right: 10px;
@@ -60,7 +57,6 @@ html{
   border-radius: 30px;
   padding: 10px 10px;
 }
-
 
 .get-quote:hover{
   background: brown;
@@ -100,7 +96,6 @@ html{
   text-align: left;
 }
 
-
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: #555;
   color: white;
@@ -115,17 +110,11 @@ html{
   display: block;
 }
 
-
-
-
-
-
 /*banner*/
 
 .slider{
   margin-bottom: 100px;
 }
-
 
 .banner1, .banner2, .banner3, .banner4{
   width: 100%;
@@ -136,7 +125,6 @@ html{
   z-index: 0;
   overflow: hidden;
 }
-
 
 .slide{
   width: 100%;
@@ -190,7 +178,6 @@ background:#04AA6D;
 .text-box-4{
   animation-delay: 9s;
 }
-
 
 
 .text-box h1{
@@ -274,7 +261,6 @@ border-top-right-radius: 10px;
   color: #796F7B;
 }
 
-
 .sec-10a, .sec-10b, .sec-10c, .sec-10d{
   height: 300px;
   width: 300px;
@@ -318,7 +304,6 @@ transition: tranform 0.3s all;
   padding: 20px;
 }
 
-
 .section-4 ul li{
   list-style: none;
 }
@@ -327,7 +312,6 @@ transition: tranform 0.3s all;
   margin-bottom: 5px;
   margin-right: 5px;
 }
-
 
 .section-4 span{
   background: #DB2531;
@@ -341,7 +325,6 @@ transition: tranform 0.3s all;
 .section-5{
   text-align: center;
 }
-
 
 .section-5 span{
   background: #DB2531;
@@ -393,12 +376,10 @@ box-shadow: 2px 5px 15px gray;
   margin: 50 auto;
 }
 
-
 .section-9{
   text-align: left;
   margin: 50px 50px;
 }
-
 
 .section-9 span{
   background: #DB2531;
@@ -448,7 +429,6 @@ box-shadow: 2px 5px 15px gray;
   box-shadow: 2px 5px 15px gray;
 }
 
-
 .input{
   display:block;
   width:95%;
@@ -487,8 +467,6 @@ box-shadow: 2px 5px 15px gray;
   background:brown;
 }
 
-
-
 /*footer*/
 
 .footer{
@@ -507,26 +485,20 @@ box-shadow: 2px 5px 15px gray;
   margin: 50px 20px;
 }
 
-
-
 .foot-1 p a, .foot-2 p a, .foot-3 p a, .foot-4 p a{
 text-decoration: none;
 color: #796F7B;
 }
 
-
 .foot-1 p a:hover, .foot-2 p a:hover, .foot-3 p a:hover, .foot-4 p a:hover{
   color:#DB2531;
 }
-
-
 
 .foot-1 p a span{
   margin: 5px 10px;
   font-size: 18px;
   font-weight: 800;
 }
-
 
 .text-email{
   display:block;
@@ -559,7 +531,6 @@ color: #796F7B;
 .signup-button i a{
   font-weight: 400;
 }
-
 
 .footer-underline{
   background: #DFDEDD;
@@ -751,8 +722,6 @@ height: 50px;
     width: 100%;
     text-align: left;
   }
-
-  
   .banner1, .banner2, .banner3, .banner4{
     width: 485px;
     height: 650px;
@@ -761,7 +730,6 @@ height: 50px;
   .slider-head{
     font-size: 24px;
   }
-  
   .slider-para{
     font-size: 14px;
   }
@@ -769,13 +737,10 @@ height: 50px;
   .slider-para-1{
   font-size: 12px;
   }
-  
-  
   .section-1{
     margin-top: 500px;
     font-size: 14px;
   }
-
   .nav-button{
     display: none;
   }
@@ -787,28 +752,22 @@ height: 50px;
     align-items: center;
     justify-content: center;
   }
-
-
   .sec-2a, .sec-2b, .sec-2c, .sec-2d{
     height: 200px;
     width: 400px;
     margin: 10px 10px;
   }
-
   .sec-3a, .sec-3b, .sec-3c{
     height: 350px;
     width: 350px;
     margin: 30px 10px ;
   }
-
-
   .sec-10a, .sec-10b, .sec-10c, .sec-10d{
     height: 300px;
     width: 300px;
     padding: 10px;
     margin: 20px 10px;
   }
-
   .section-4{
     display: grid;
     grid-gap: 10px;
@@ -822,7 +781,6 @@ height: 50px;
     justify-content: center;
     align-items: center;
   }
-
   .sec-4-left{
     text-align: justify;
     padding: 20px;
@@ -842,8 +800,6 @@ height: 50px;
     margin-bottom: 5px;
     margin-right: 5px;
   }
-
-
   .section-4 span{
     background: #DB2531;
     height: 3px;
@@ -852,15 +808,10 @@ height: 50px;
     left: 70px;
     margin-top: -10px;
   }
-
-
-  
   .section-5{
     margin-top: 100px;
     text-align: center;
   }
-
-
   .section-5 span{
     background: #DB2531;
     height: 3px;
@@ -868,11 +819,9 @@ height: 50px;
     position: absolute;
     left: 220px;
   }
-
   .section-6 {
     margin: 40px 50px;
   }
-
   .section-6 img{
     margin: 60px 0;
   }
@@ -929,7 +878,6 @@ height: 50px;
     text-align: left;
     margin: 50px 50px;
   }
-
 
   .section-9 span{
     background: #DB2531;
@@ -988,7 +936,6 @@ height: 50px;
     background: #DB2531;
     border: none;
   }
-
 
   .footer{
     display: flex;
